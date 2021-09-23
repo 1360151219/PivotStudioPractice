@@ -15,7 +15,9 @@
 - docs:存放完成任务过程中文档
 - schedule:每日日志
 - code:你主要编写代码的地方，包含你的可执行文件
-- git commit 的规范
+
+
+## git commit 的规范
 - feat：新功能（feature）
 - fix：修复 bug
 - docs：文档（documentation）
@@ -23,6 +25,7 @@
 - refactor：重构（即不是新增功能，也不是修改 bug 的代码变动）
 - test：增加测试
 - revert：回滚到上⼀个版本
+**可以参考本仓库的第一次commit**
 
 ## 实习时间
 
